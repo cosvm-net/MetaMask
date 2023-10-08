@@ -1,9 +1,9 @@
 {
-  "name": "chainlist",
-  "version": "1.0.0",
+  "name": "MetaMask",
+  "version": "2.0.0",
   "private": true,
-  "description": "chainlist",
-  "author": "Frederik Bolding",
+  "description": "MetaMask",
+  "author": "Sohel Ahmed",
   "keywords": [
     "gatsby"
   ],
